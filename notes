@@ -1,0 +1,61 @@
+
+{
+  "myhuman": [
+    {
+      "content_accessibility": [
+        "personal"
+      ],
+      "content_id": "4Ekl",
+      "content_type": "bookmark",
+      "content_title": "Spinal Cord: Cross Section at L1 Level",
+      "content_authored_date": "2021-02-23T23:46:00+00:00",
+      "content_url": "https://human.biodigital.com/viewer/?be=4Ekl&dk=686b32cbfd0acd78840e059827163acee4fae76b",
+      "content_thumbnail_url": "https://human.biodigital.com/thumbs/bookmarks/4Ekl/large/index.jpg"
+    },
+    {
+      "content_accessibility": [
+        "personal"
+      ],
+      "content_id": "4Ek9",
+      "content_type": "bookmark",
+      "content_title": "Brain: Sagittal Cross Section",
+      "content_authored_date": "2021-02-23T21:36:51+00:00",
+      "content_url": "https://human.biodigital.com/viewer/?be=4Ek9&dk=686b32cbfd0acd78840e059827163acee4fae76b",
+      "content_thumbnail_url": "https://human.biodigital.com/thumbs/bookmarks/4Ek9/large/index.jpg"
+    },
+    {
+      "content_accessibility": [
+        "personal"
+      ],
+      "content_id": "4Ek8",
+      "content_type": "bookmark",
+      "content_title": "Brain: Transverse (Axial) Cross Section",
+      "content_authored_date": "2021-02-23T21:36:50+00:00",
+      "content_url": "https://human.biodigital.com/viewer/?be=4Ek8&dk=686b32cbfd0acd78840e059827163acee4fae76b",
+      "content_thumbnail_url": "https://human.biodigital.com/thumbs/bookmarks/4Ek8/large/index.jpg"
+    },
+    {
+      "content_accessibility": [
+        "personal"
+      ],
+      "content_id": "4Ek6",
+      "content_type": "bookmark",
+      "content_title": "Neurotransmitter Activity",
+      "content_authored_date": "2021-02-23T21:33:23+00:00",
+      "content_url": "https://human.biodigital.com/viewer/?be=4Ek6&dk=686b32cbfd0acd78840e059827163acee4fae76b",
+      "content_thumbnail_url": "https://human.biodigital.com/thumbs/bookmarks/4Ek6/large/index.jpg"
+    },
+    {
+      "content_accessibility": [
+        "personal"
+      ],
+      "content_id": "4Ek5",
+      "content_type": "bookmark",
+      "content_title": "Brain: Coronal Cross Section",
+      "content_authored_date": "2021-02-23T21:32:35+00:00",
+      "content_url": "https://human.biodigital.com/viewer/?be=4Ek5&dk=686b32cbfd0acd78840e059827163acee4fae76b",
+      "content_thumbnail_url": "https://human.biodigital.com/thumbs/bookmarks/4Ek5/large/index.jpg"
+    }
+  ],
+  "service_version": "2"
+}
